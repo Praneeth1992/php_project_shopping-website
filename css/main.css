@@ -1,0 +1,58 @@
+.mainimg{
+	
+	width:450px;
+	height:350px;
+}
+.easypara{
+	text-align: center;
+	padding-top:10px;
+	font-weight:bold;
+	font-size:80%;
+	color:#ed7a78;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.easypara1{
+	text-align: center;
+	padding-top:10px;
+	font-weight:normal;
+	font-size:80%;
+	color:brown;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.normallink a{
+	text-decoration:none;
+	
+}
+
+a#forgot_link {
+	margin-left:160px;
+}
+a.no_account_link{
+	margin-left:150px;
+}
+.mainfoot{
+	margin-bottom:50px;
+}
+
+.ui-icon-facebook:after{
+    background-image:url("../images/facebook.png");
+    /* Make your icon fit */
+    background-size:18px 18px;
+    
+}
+#facebbok{
+	margin-left:100px;
+    margin-right:100px;
+}
+.ui-icon-google:after{
+    background-image:url("../images/google.png");
+    /* Make your icon fit */
+    background-size:18px 18px;
+}
+
+.imglogin{
+	width:80px;
+	height:30px;
+}

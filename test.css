@@ -1,0 +1,12 @@
+.ui-icon-custom:after {
+    background-image: url("images/icon1.png");
+    background-position: 3px 3px;
+    background-size: 70%;
+    
+    background-color: transparent;
+    box-shadow: none;
+}
+
+.ui-icon-bars {
+    background-color: #0000FF !important;
+}
